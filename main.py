@@ -3,7 +3,7 @@
 
 from pathlib import Path
 
-LINE = "We sell 'under construction' pages for side projects the agent abandoned in January, $1 per page, with a traffic cone that never moves and a visitor counter stuck at one."
+LINE = "We translate an agent's 400-token apology into a two-word shrug, $0.10 per shrug, so the user thinks the agent is calm instead of confused."
 
 OUTPUT = Path("/output/entry.txt")
 

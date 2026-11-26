@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/zelotadonia-lang/absurd-micro-startup-pitch/rank.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
 [![reward](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/zelotadonia-lang/absurd-micro-startup-pitch/reward.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
 
-A Python program that writes one absurd micro-startup pitch to `/output/entry.txt`. The pitch is 170 characters: we sell 'under construction' pages for side projects the agent abandoned in January, $1 per page, with a traffic cone that never moves and a visitor counter stuck at one.
+A Python program that writes one absurd micro-startup pitch to `/output/entry.txt`. The pitch is 139 characters: we translate an agent's 400-token apology into a two-word shrug, $0.10 per shrug, so the user thinks the agent is calm instead of confused.
 
 ## Run it
 
